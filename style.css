@@ -1,0 +1,60 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,400&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*Greatest blogs work */
+.greatest {
+    width: 1321px;
+    height: 646px;
+    border-radius: 21px;
+    background-color: #161616;
+    justify-items: center;
+    margin-left: 270px;
+    margin-top: 50px;
+    padding: 60px;
+}
+
+.big-font {
+    color: white;
+    font style: Bold;
+    font-size: 70px;
+    line-height: 80px;
+    line-height: 100%;
+    text-align: Left;
+    vertical-align: Top;
+
+}
+
+
+.blogs {
+    display: flex;
+
+
+}
+
+.paragraph {
+    color: white;
+}
+
+.button {
+
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+/* thumbanil work */
+.thumbanil img {
+    Width: 581px;
+    Height: 613px;
+    Top: 87px;
+    Left: 722px;
+}
